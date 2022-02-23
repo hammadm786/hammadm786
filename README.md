@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hammadm786
+- 👀 I’m interested in python and am planning to learn rust
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me hammadmobeen5@hotmail.com
